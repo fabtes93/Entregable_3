@@ -1,0 +1,9 @@
+
+marvel
+
+psycopg2
+
+pandas
+
+
+
