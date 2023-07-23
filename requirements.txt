@@ -1,0 +1,11 @@
+
+apache-airflow[amazon]
+apache-airflow-providers-amazon
+pandas
+marvel
+psycopg2-binary
+
+
+
+
+
